@@ -1,3 +1,9 @@
+.main {
+  background-image: url("bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  
 /* cyrillic-ext */
 @font-face {
   font-family: 'Source Sans Pro';
