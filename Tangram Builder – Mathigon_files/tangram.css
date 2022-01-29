@@ -3635,13 +3635,13 @@ x-modal#login .hr span {
   background: #888;
 }
 .tangram .tangram-footer-tab.active {
-  background: #3a3645;
+  background: #000000;
   color: #fff;
   position: relative;
 }
 .tangram .tangram-footer-tab.active:after {
   border-bottom: 15px solid transparent;
-  border-left: 6px solid #3a3645;
+  border-left: 6px solid #000000;
   border-top: 15px solid transparent;
   content: "";
   display: block;
