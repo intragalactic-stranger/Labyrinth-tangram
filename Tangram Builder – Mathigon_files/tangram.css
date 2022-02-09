@@ -3704,8 +3704,9 @@ x-modal#login .hr span {
 }
 
 .button {
-  background-color: #000000;
+  background-color: #181824;
   color: white;
   padding: 15px 25px;
   text-decoration: none;
+  margin-bottom = 15px;
 }
